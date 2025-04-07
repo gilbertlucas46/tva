@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dsfasdadad/iptv-scraper/refs/heads/main/epgs/tvpass-epg.xml"  
+
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-logo="https://imgur.com/uJosqHh" group-title="SPAIN",beIN SPORTS XTRA
+#EXTVLCOPT:http-origin=https://bein-xtra-xumo.amagi.tv
+#EXTVLCOPT:http-referrer=https://bein-xtra-xumo.amagi.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
